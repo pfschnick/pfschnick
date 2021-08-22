@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pfschnick
-- 👀 I’m interested in robotics
+- 👀 I’m interested in robotics🤖
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me ... email
